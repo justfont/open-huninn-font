@@ -22,7 +22,7 @@ Ver 1.00　公開 (2020/3/14)
 更要感謝所有金萱募資案的贊助者在 2015 年的支持！
 
 
-#古椎得人疼ê台灣口味
+# 古椎得人疼ê台灣口味
 在「小杉圓體」的基礎上，
 針對台灣的使用與排版需求，在原有的日文字型基礎上，
 我們增加了**台灣常用字**、**注音符號**，
@@ -43,7 +43,7 @@ Ver 1.00　公開 (2020/3/14)
 另設計注音符號及台羅拼音符號。
 
 
-#用都用，放心用
+# 用都用，放心用
 jf open 粉圓授權為開源的 OFL 1.1版本，的詳細規定，請參考：
 Open Font License：<https://opensource.org/licenses/OFL-1.1>
 中譯參考版本：<http://florenceko.me/?p=2089>
@@ -59,7 +59,7 @@ Open Font License：<https://opensource.org/licenses/OFL-1.1>
 
 
 
-#特別感謝
+# 特別感謝
 - 感謝金萱募資專案的所有贊助者 ( <https://store.justfont.com/index/jinxuansponsor> )
 - 感謝貝殼放大在金萱募資專案中的支持
 - 感謝柯志杰 (But)先生在本專案中的協助和校對
@@ -73,13 +73,13 @@ Open Font License：<https://opensource.org/licenses/OFL-1.1>
 justfont 相信字體的價值，更相信好的字體能啟發社會。除了細心栽培一筆一劃，我們更願做字體推廣教育的先行者、教育者與輔導者，致力於培育台灣下一代的設計力量。從基礎建設與教育開始，提升台灣的美學環境。邀請您一起來，創造更好的文字風景。
 
 
-#字型相關連結推薦
+# 字型相關連結推薦
 - justfont 官網 <https://www.justfont.com>
 - 金萱字型 <https://justfont.com/jinxuan/>
 - 金萱那提字型 <https://justfont.com/jinxuan-latte/>
 - 字戀 <https://www.facebook.com/lovefonts/>
 - 字嗨 <https://www.facebook.com/groups/enjoyfonts/>
 
-#免責事項
+# 免責事項
 本字型以開源釋出，對本字型的下載、安裝、與安裝後相關之問題，及可能導致之一切可能損害， justfont 皆不承擔相關責任。我們雖然經過數次校對，但不擔保字型內沒有錯誤，您在正式場合使用時，請自行確認文字之正確性。
 
