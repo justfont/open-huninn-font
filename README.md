@@ -64,7 +64,7 @@ Open Font License：<https://opensource.org/licenses/OFL-1.1>
 - 感謝貝殼放大在金萱募資專案中的支持
 - 感謝柯志杰 (But)先生在本專案中的協助和校對
 
-#關於 justfont
+# 關於 justfont
 ![](https://justfont-images.s3-ap-northeast-1.amazonaws.com/jf-logo-full-small.jpg)
 字體不但佔據閱讀的目光，也引導了生活中的每個決定。字體更構築了城市街道的風景，是關乎美感，最重要也最容易被忽略的視覺纖維。在人人都能用字型的時代，更能透過方便的科技，將專家職人的心血結晶應用在生活中。
 
