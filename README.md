@@ -4,14 +4,14 @@
 「[jf open 粉圓](https://justfont.com/huninn/ "jf open 粉圓")」是基於小杉圓體 (Kosugi Maru) 改作，
 由[ justfont](https://justfont.com " justfont") 設計師針對台灣日常應用加以優化的開源字型，以 OFL 1.1 開源授權釋出，歡迎大家自由應用、自由優化、自由改作！粉圓的官網連結：<https://justfont.com/huninn/>，歡迎大家到官網看看喔！
 
-# 版本紀錄
+## 版本紀錄
 Ver 1.00　(2020/3/14) 初次對外公開，以 Truetype 格式釋出。
 
-# 食粉圓，拜樹頭
+## 食粉圓，拜樹頭
 在 2015 年「[金萱字型](https://jinxuan.justfont.com/ "金萱字型")」成功募資後，我們承諾以既有開源字型為基礎，為台灣使用者優化成一套新的開源作品。感謝日本 Motoya 公司開放旗下「小杉圓體」（Kosugi Maru）為開源字型，我們才能基於前人基礎，惠及後人；同樣感謝美國設計師 Joe Prince 與以色列設計師 Avraham Cornfeld 開發了開源字體 Verala Round，更要感謝的是，所有金萱募資案的贊助者在 2015 年對我們的支持，jf open 粉圓是你們獻給台灣的禮物！
 
 
-# 古椎得人疼ê台灣口味
+## 古椎得人疼ê台灣口味
 在「小杉圓體」的基礎上，針對台灣的使用與排版需求，在原有的日文字型基礎上，增加了**台灣常用字**、**注音符號**，並修訂排版設定，甚至增加了**台羅拼音**，以適應台灣的使用需求。設計師更改進了原有字體的灰度品質，讓你的排版更美麗！新的「jf open 粉圓」字型大致來說，我們執行的任務有：
 
 - 優化設計
@@ -25,7 +25,7 @@ Ver 1.00　(2020/3/14) 初次對外公開，以 Truetype 格式釋出。
 補齊日文字型中所缺乏的台灣常用漢字共 1,484 字，另設計注音符號及台羅拼音符號。
 
 
-# 用都用，放心用
+## 用都用，放心用
 jf open 粉圓授權為開源的 OFL 1.1版本，的詳細規定，請參考：Open Font License：<https://opensource.org/licenses/OFL-1.1>
 中譯參考版本：<http://florenceko.me/?p=2089>
 
@@ -40,10 +40,10 @@ jf open 粉圓授權為開源的 OFL 1.1版本，的詳細規定，請參考：O
 
 
 
-# 特別感謝
+## 特別感謝
 - 感謝金萱募資專案的所有贊助者 ( <https://store.justfont.com/index/jinxuansponsor> )
 - 感謝貝殼放大在金萱募資專案中的支持
-- 感謝柯志杰 (But)先生在本專案中的協助和校對
+- 感謝柯志杰 @ButTaiwan 先生在本專案中的協助和校對
 
 # 關於 justfont
 ![](https://justfont-images.s3-ap-northeast-1.amazonaws.com/jf-logo-full-small.jpg)
@@ -54,7 +54,7 @@ jf open 粉圓授權為開源的 OFL 1.1版本，的詳細規定，請參考：O
 justfont 相信字體的價值，更相信好的字體能啟發社會。除了細心栽培一筆一劃，我們更願做字體推廣教育的先行者、教育者與輔導者，致力於培育台灣下一代的設計力量。從基礎建設與教育開始，提升台灣的美學環境。邀請您一起來，創造更好的文字風景。
 
 
-# 字型相關連結推薦
+### 字型相關連結推薦
 - justfont 官網 <https://www.justfont.com>
 - 金萱字型 <https://justfont.com/jinxuan/>
 - 金萱那提字型 <https://justfont.com/jinxuan-latte/>
@@ -63,4 +63,3 @@ justfont 相信字體的價值，更相信好的字體能啟發社會。除了�
 
 # 免責事項
 本字型以開源釋出，對本字型的下載、安裝、與安裝後相關之問題，及可能導致之一切可能損害， justfont 皆不承擔相關責任。我們雖然經過數次校對，但不擔保字型內沒有錯誤，您在正式場合使用時，請自行確認文字之正確性。
-
