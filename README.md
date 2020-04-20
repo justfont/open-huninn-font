@@ -3,7 +3,7 @@
 # 加粉圓，都免錢
 「[jf open 粉圓](http://bit.ly/39PiKeb "jf open 粉圓")」是基於小杉圓體 (Kosugi Maru) 改作，
 由[ justfont](https://justfont.com " justfont") 設計師針對台灣日常應用加以優化的開源字型，以 OFL 1.1 開源授權釋出，歡迎大家自由應用、自由優化、自由改作！  
-粉圓的官網連結：<http://bit.ly/39PiKeb>，歡迎大家到官網看看喔！
+粉圓的官網連結：<https://justfont.com/huninn/>，歡迎大家到官網看看喔！
 
 ## 版本紀錄
 Ver 1.00　(2020/3/14) 初次對外公開，以 Truetype 格式釋出。  
