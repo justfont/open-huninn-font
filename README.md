@@ -59,7 +59,7 @@ jf open 粉圓基於 SIL Open Font License 1.1 開源協議授權釋出。您可
 
 ## 特別感謝
 
-- MOTOYA（小杉丸ゴシック）、Joe Prince 與 Avraham Cornfeld (Varela Round)、@NightFurySL2001（糖圓體）
+- MOTOYA（小杉丸ゴシック）、Joe Prince 與 Avraham Cornfeld (Varela Round)、[@NightFurySL2001](https://github.com/NightFurySL2001)（糖圓體）
 - 金萱募資專案中的所有贊助者
 - 貝殼放大在金萱募資專案中的支持  
 - 柯志杰 [@ButTaiwan](https://github.com/ButTaiwan) 先生在本專案中的協助和校對 
