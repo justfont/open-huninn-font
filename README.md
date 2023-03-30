@@ -71,22 +71,13 @@ jf open 粉圓基於 SIL Open Font License 1.1 開源協議授權釋出。您可
 
 ![](image/jf-logo-full-small.jpg)
 
+justfont 官方網站： [https://justfont.com](https://bit.ly/3TUYi3r)
+
 字體不但佔據閱讀的目光，也引導了生活中的每個決定。字體更構築了城市街道的風景，是關乎美感，最重要的視覺纖維。在人人都能用字型的時代，更能透過方便的科技，將專家職人的心血結晶應用在生活中。
 
 可惜，臺灣長期以來，不論學院或產業，字體都未能得到足夠關注，也缺乏深度耕耘。不僅導致設計從業者能力斷層，一般民眾也對每日都會用到的字體缺乏認識。長久以往，街道上充斥不易理解、不甚美觀的字體排印。版權觀念薄弱，盜版盛行，更導致字型廠商在消費端無立足之地，紛紛轉型或外移。如此負向循環，讓臺灣的「文字風景」難以起色。
 
 justfont 相信字體的價值，更相信好的字體能啟發社會。除了細心栽培一筆一劃，我們更願做字體推廣教育的先行者、教育者與輔導者，致力於培育臺灣下一代的設計力量。從基礎建設與教育開始，提升臺灣的美學環境。邀請您一起來，創造更好的文字風景。
-
-
-## 字型相關連結推薦
-
-- justfont 官網： https://justfont.com
-- justfont Instagram: https://www.instagram.com/justfont/
-- 字戀： https://www.facebook.com/lovefonts/
-- jf 字體口袋書： https://learn.justfont.com/pocketbook/
-- 金萱字型家族系列： https://justfont.com/jinxuan/
-- 金萱那提字型家族系列： https://justfont.com/jinxuan-latte/
-- 蘭陽明體字型家族系列： https://justfont.com/lanyangming/
 
 
 ***
