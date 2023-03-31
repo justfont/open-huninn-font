@@ -1,10 +1,14 @@
-![](image/jf-open-huninn-banner.png)
+
 
 <div align="center">
 
+![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=總下載數&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=檔案大小&style=flat-square&color=ff69b4) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen)
+
+![](image/jf-open-huninn-banner.png)
+
 # 加粉圓，都免錢
 
-![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=總下載數&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=檔案大小&style=flat-square&color=ff69b4) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square)
+
 
 **「jf open 粉圓（open-huninn）」** 是基於小杉圓體（Kosugi Maru）、
 
