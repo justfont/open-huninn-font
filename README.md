@@ -1,13 +1,99 @@
 
 
-<div align="center">
+<div align='center'>
 
-![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=總下載數&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=檔案大小&style=flat-square&color=ff69b4) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen)
+![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=Latest&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=Downloads&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=Update&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=Size&style=flat-square&color=ff69b4) ![](https://img.shields.io/badge/License-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green&label=Forks) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen&label=Stars)
 
 ![](image/jf-open-huninn-banner.png)
 
-# 加粉圓，都免錢
 
+
+**jf open-huninn** is an open-source Traditional Chinese typeface based on *Kosugi Maru* and *Varela Round*, adjusted by the designers at justfont for everyday use in Taiwan. 
+
+The typeface is released under the SIL Open Font License 1.1, and we welcome everyone to freely use, share, and modify it!
+
+🔗 Visit the website: https://justfont.com/huninn/
+
+![](image/glyphs.gif)
+
+</div>
+
+## Download
+
+- **The latest version is jf open-huninn 2.1**
+- Download from official website: https://justfont.com/huninn/
+- Download from Releases page: https://github.com/justfont/open-huninn-font/releases
+
+
+## Changelog
+
+- `1.0` (Mar. 14, 2020) 
+  - First release.
+- `1.1` (Apr. 4, 2020)
+  - Added characters, including 301 Taiwanese and Hokkien characters.
+  - Corrected some character outlines and curves.
+  - Attempted to adjust potential misalignment in phonetic notation.
+- `2.0` (Mar. 14, 2023)
+  - Add and adjust 1,168 characters.
+  - For detailed updates, see Releases page.
+- `2.1` (Aug. 19, 2024)
+  - Add and adjust 727 characters to fulfill [jf 7000 charset](https://justfont.com/jf7000) range.
+  - For detailed updates, see Releases page.
+
+
+## Story behind project
+
+> *Huninn* (粉圓), which means *tapioca* in Taiwanese, is Taiwan's beloved unique flavor.
+
+
+After the successful crowdfunding of the [Jin Xuan (金萱) typeface](https://justfont.com/jinxuan/) in 2015, we committed to release a new open-source work for Taiwanese users.
+
+
+
+To meet the usage and typographic needs of Taiwan, we have added nearly 2,700 commonly used Taiwanese characters, Bopomofo symbols, and even Taiwanese Hokkien phonetic and Chinese characters to the original *Kosugi Maru*. Besides characters, our designers have also revised the typographic settings and improved the font’s quality for more beautiful.
+
+In summary, jf open-huninn includes the following changes:
+
+- **Stroke Redesign**: Adjustments and corrections to the uneven stroke thickness of the original characters.
+- **Typographic Adjustments**: Changed from Japanese punctuation marks in *Kosugi Maru* to traditional Chinese punctuation marks used in Taiwan.
+- **Character Additions**: Added nearly 2,700 commonly used Taiwanese characters and Taiwanese Hokkien characters, along with newly designed Bopomofo and Taiwanese phonetic symbols.
+
+## License
+
+jf open-huninn is released under the **SIL Open Font License 1.1**. You are free to:
+
+- **Use**: Freely use or download this font without payment, notification, or attribution, including for commercial purposes, as long as the font itself is not sold as a product.
+- **Distribute**: Freely share, copy, or install this font on any firmware, software or hardware.
+- **Modify**: Freely modify this font to create derivative designs, which must also be released under the SIL Open Font License.
+
+For full licensing details, see:
+
+- SIL Open Font License 1.1 - SPDX: https://spdx.org/licenses/OFL-1.1.html
+
+## Special Thanks
+
+
+We particularly thank Japan MOTOYA Company for open-sourcing their [*Kosugi Maru*](https://github.com/googlefonts/kosugi-maru), American designer Joe Prince, and Israeli designer Avraham Cornfeld for open-sourcing the [*Varela Round*](https://fonts.google.com/specimen/Varela+Round). Your contributions have enabled us to build upon the work of our predecessors. We also extend our gratitude to all the supporters of the [Jin Xuan Crowdfunding Project in 2015](https://www.flyingv.cc/projects/8250/), as jf open-huninn is your gift to Taiwan!
+
+- MOTOYA (*Kosugi Maru*), Joe Prince, and Avraham Cornfeld (*Varela Round*), [@NightFurySL2001](https://github.com/NightFurySL2001) (*Tangyuan-font*)
+- All sponsors of the [Jin Xuan Crowdfunding Project](https://www.flyingv.cc/projects/8250/)
+- [Backer-Founder](https://backer-founder.com/) for their support in the crowdfunding project
+- [@ButTaiwan](https://github.com/ButTaiwan)
+- All the passionate typeface enthusiasts!
+
+## Disclaimer
+
+This font is released under an open-source license. We assumes no responsibility for any issues related to the download, installation, or use of this typeface, nor for any potential damage that may result.
+
+Furthermore, although we have check the typeface multiple times, we do not guarantee that it is completely free of errors. If you intend to use this typeface in formal settings, please verify and correct the text's accuracy yourself.
+
+
+
+---
+
+<div align='center'>
+
+# 加粉圓，都免錢
 
 
 **「jf open 粉圓（open-huninn）」** 是基於小杉圓體（Kosugi Maru）、
@@ -31,15 +117,18 @@
 
 ## 更新紀錄
 
-- `1.0` (2020/3/14) 
+- `1.0` (2020/03/14) 
   - 初次對外公開，以 TrueType 格式釋出。  
-- `1.1` (2020/4/20)   
+- `1.1` (2020/04/20)   
    - 新增字符，包含「本土語言外字表」表列的臺客語漢字，共 301 字。  
    - 更正某些字的輪廓與曲線錯誤。  
    - 嘗試排除臺客語羅馬字標音中，可能出現錯誤位移的狀況。  
 - `2.0` (2023/03/14) 
   - 粉圓在今年將滿三歲了，一直以來很謝謝大家的支持！
   - 在這次的更新之後，除非未來發現嚴重錯誤（如碼位錯置、筆畫錯誤、字體檔案本身損毀等），否則此版本的粉圓將會是 justfont 維護的最後一個版本。
+  - 詳細更新的內容，請見 [Releases 紀錄](https://github.com/justfont/open-huninn-font/releases) 。
+- `2.1` (2024/09/19)
+  - 增補字符，滿足 [jf 7000](https://justfont.com/jf7000) `v0.9` 字符集需求。
   - 詳細更新的內容，請見 [Releases 紀錄](https://github.com/justfont/open-huninn-font/releases) 。
 
 ## 食粉圓，拜樹頭
@@ -76,8 +165,8 @@ jf open 粉圓基於 SIL Open Font License 1.1 開源協議授權釋出。您可
 ## 特別感謝
 
 - MOTOYA（小杉丸ゴシック）、Joe Prince 與 Avraham Cornfeld (Varela Round)、[@NightFurySL2001](https://github.com/NightFurySL2001)（糖圓體）
-- 金萱募資專案中的所有贊助者
-- 貝殼放大在金萱募資專案中的支持  
+- [金萱募資專案](https://www.flyingv.cc/projects/8250/)中的所有贊助者
+- [貝殼放大](https://backer-founder.com/)在金萱募資專案中的支持  
 - 柯志杰 [@ButTaiwan](https://github.com/ButTaiwan) 先生在本專案中的協助和校對 
 - 所有熱愛字的好夥伴們
 
