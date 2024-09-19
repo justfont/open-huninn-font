@@ -36,7 +36,7 @@ The typeface is released under the SIL Open Font License 1.1, and we welcome eve
 - `2.0` (Mar. 14, 2023)
   - Add and adjust 1,168 characters.
   - For detailed updates, see Releases page.
-- `2.1` (Aug. 19, 2024)
+- `2.1` (Sep. 19, 2024)
   - Add and adjust 727 characters to fulfill [jf 7000 charset](https://justfont.com/jf7000) range.
   - For detailed updates, see Releases page.
 
