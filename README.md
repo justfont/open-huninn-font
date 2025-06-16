@@ -18,12 +18,21 @@ The typeface is released under the SIL Open Font License 1.1, and we welcome eve
 
 </div>
 
-## Download
+## Download & Install
+
+### Direct Download
 
 - **The latest version is jf open-huninn 2.1**
 - Download from official website: https://justfont.com/huninn/
 - Download from Releases page: https://github.com/justfont/open-huninn-font/releases
 
+### 2. Via Homebrew (for macOS users)
+
+If you are using macOS and have Homebrew installed, you can install the font with the following command:
+
+```sh
+brew install --cask font-huninn
+```
 
 ## Changelog
 
