@@ -2,13 +2,16 @@
 
 <div align='center'>
 
-![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=Latest&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=Downloads&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=Update&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=Size&style=flat-square&color=ff69b4) ![](https://img.shields.io/badge/License-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green&label=Forks) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen&label=Stars)
+![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=Latest&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=Downloads&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=Update&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=Size&style=flat-square&color=ff69b4)  ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green&label=Forks) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen&label=Stars)
+
+[![](https://img.shields.io/badge/jf7000_Charset-Fully_Supported-66AC35?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9IuWcluWxpCAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTMuMDcgMjQ3LjM4Ij48Y2lyY2xlIGN4PSI5Ni41MyIgY3k9Ijk2LjU5IiByPSI5Ni40NCIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik05NjAgNDE2LjMxYTk2LjU0IDk2LjU0IDAgMSAwIDAgMTkzLjA3YzIuOCAwIDUuNS0uMTQgOC4yMy0uMzdWNDg0LjQ0YTI5LjM1IDI5LjM1IDAgMCAxIDI5LjI1LTI5LjI1IDYyLjYgNjIuNiAwIDAgMSAxMi43MyAxLjMzYzMuOC45IDYuMjUgMy44IDYuMjUgNy4zNyAwIDQuNjktMy44IDcuMTQtNy4zNyA3LjE0LTMuNzkgMC02LjQ4LTEuMzMtMTEuNjEtMS4zM2ExNCAxNCAwIDAgMC0xNC4wNiAxNC4wNnYxOC4zaDI1LjY3YTcuMjkgNy4yOSAwIDAgMSA3LjM3IDcuMzcgNy4xIDcuMSAwIDAgMS03LjM3IDcuMTRoLTI1LjY2djg5Ljk0QTk2LjU0IDk2LjU0IDAgMCAwIDk2MCA0MTYuMzEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NjMuNDYgLTQxNi4zMSkiIHN0eWxlPSJmaWxsOiNhOWFhYTkiLz48cGF0aCBkPSJNNjQuNjEgMzguODhhMTAgMTAgMCAwIDAtMTAuMDcgMTAuMDUgMTAuMDUgMTAuMDUgMCAxIDAgMjAuMSAwIDEwIDEwIDAgMCAwLTEwLTEwLjA1bS0uMDMgNDQuNjRhNy42NyA3LjY3IDAgMCAwLTcuNTkgNy41OVYyMDYuM2MwIDE0LjA3LTcuMTQgMjMuODktMTkuNDEgMjYuNzlhNi45MyA2LjkzIDAgMCAwLTUuODEgNi45MiA3LjIzIDcuMjMgMCAwIDAgNy4xNCA3LjM3IDEwIDEwIDAgMCAwIDIuMjQtLjIzYzE4Ljc0LTMuNTcgMzEtMjAuNTQgMzEtNDEuNTJWOTEuMTFhNy42NyA3LjY3IDAgMCAwLTcuNTktNy41OSIgc3R5bGU9ImZpbGw6IzU5NWE1OSIvPjwvc3ZnPg==&style=flat-square)](https://github.com/justfont/jf7000) ![](https://img.shields.io/badge/License-OFL%201.1-yellow?style=flat-square)
+
 
 ![](image/jf-open-huninn-banner.png)
 
 
 
-**jf open-huninn** is an open-source Traditional Chinese typeface based on *Kosugi Maru* and *Varela Round*, adjusted by the designers at justfont for everyday use in Taiwan. 
+**jf open-huninn** is an Open-Source Traditional Chinese Rounded Typeface project developed by [justfont](https://justfont.com). 
 
 The typeface is released under the SIL Open Font License 1.1, and we welcome everyone to freely use, share, and modify it!
 
@@ -23,7 +26,7 @@ The typeface is released under the SIL Open Font License 1.1, and we welcome eve
 - **The latest version is jf open-huninn 2.1**
 - Download from official website: https://justfont.com/huninn/
 - Download from Releases page: https://github.com/justfont/open-huninn-font/releases
-
+- If you want use it as webfont or Google Workspace, check [Huninn]([https://](https://github.com/justfont/Huninn)) on [Google Fonts](https://fonts.google.com/specimen/Huninn)
 
 ## Changelog
 
@@ -43,20 +46,44 @@ The typeface is released under the SIL Open Font License 1.1, and we welcome eve
 
 ## Story behind project
 
-> *Huninn* (粉圓), which means *tapioca* in Taiwanese, is Taiwan's beloved unique flavor.
+> The name **Huninn (粉圓)** is inspired by the Taiwanese term for tapioca pearls, reflecting a playful nod to local culture.
 
 
-After the successful crowdfunding of the [Jin Xuan (金萱) typeface](https://justfont.com/jinxuan/) in 2015, we committed to release a new open-source work for Taiwanese users.
+This project was initiated as a way to give back to the community following the success of the 2015 crowdfunding campaign for [JinXuan (金萱)](https://blog.justfont.com/2025/03/jinxuan-en/). As promised, an open-source font optimized for Taiwanese users was created and given as a gift to the Taiwanese community. 
+
+The typeface is based on the Japanese existing open-source font [Kosugi Maru (小杉丸ゴシック)](https://github.com/googlefonts/kosugi-maru), originally developed by Motoya Co., Ltd and the Latin characters were replaced with another open-source font, [Varela Round](https://fonts.google.com/specimen/Varela+Round), designed by Joe Prince and Avraham Cornfeld, to ensure a cohesive and high-quality bilingual experience. 
 
 
 
-To meet the usage and typographic needs of Taiwan, we have added nearly 2,700 commonly used Taiwanese characters, Bopomofo symbols, and even Taiwanese Hokkien phonetic and Chinese characters to the original *Kosugi Maru*. Besides characters, our designers have also revised the typographic settings and improved the font’s quality for more beautiful.
+The typeface includes commonly used characters in Taiwan, Zhuyin (Bopomofo) symbols, and even adds Taigi and Hokkien phonetic symbols and characters to meet local requirements.
 
-In summary, jf open-huninn includes the following changes:
+Released under the [SIL Open Font License 1.1 (OFL 1.1)](https://openfontlicense.org/), The typeface is freely available for anyone to use without restrictions. It can be downloaded and used at no cost, with no requirement to notify or credit us. It is also suitable for commercial projects, as long as the typeface itself is not sold as a standalone product. Users are free to copy, distribute, and install it on any device or software without limitations. Additionally, the typeface can be modified or used as the basis for new works, provided that any derivatives are shared under the same SIL Open Font License.
 
-- **Stroke Redesign**: Adjustments and corrections to the uneven stroke thickness of the original characters.
-- **Typographic Adjustments**: Changed from Japanese punctuation marks in *Kosugi Maru* to traditional Chinese punctuation marks used in Taiwan.
-- **Character Additions**: Added nearly 2,700 commonly used Taiwanese characters and Taiwanese Hokkien characters, along with newly designed Bopomofo and Taiwanese phonetic symbols.
+❤️ Learn more about the Huninn story from [Huninn: A Free and Open-Source Font for Traditional Chinese | justfont blog](https://blog.justfont.com/2025/03/huninn-open-source-en/).
+
+## Features
+
+The design process involved reworking the original Kosugi Maru font, which featured uneven stroke weights and a distinctly Japanese aesthetic, to better suit Taiwanese typographic tastes. 
+
+Additionally, justfont enhanced the font’s grayscale rendering and repositioned punctuation to conform to Traditional Chinese standards, improving its practicality for local uses such as documents, web design, and signage.
+
+- **Glyph Expansion**: 
+  - Building on this base, justfont tailored the font for everyday use in Taiwan. They expanded it by incorporating 1,477 frequently used Traditional Chinese characters, Taiwanese-specific phonetic symbols like Bopomofo , and characters for Taiwanese Hokkien Romanization (Tai-lo). 
+  - In total, our team refined glyph shapes and added over 2,700 characters and symbols to better reflect common usage in Taiwan.
+  
+- **Design Refinements**: 
+  - The character designs were polished to enhance legibility and visual balance. This included fine-tuning stroke weights, adjusting character spacing, and optimizing glyph proportions for a typeface that is both practical and aesthetically pleasing. 
+  - Significant effort went into refining the “grayscale” of the characters, addressing the original’s inconsistent stroke thicknesses. 
+  - We meticulously adjusted each stroke to achieve a more uniform and ideal appearance, ensuring that no characters appear overly dark or faint.
+  
+- **Typesetting Adjustments**: 
+  - The original Kosugi Maru punctuation, designed for Japanese, positioned marks off-center within the grid. 
+  - To align with Taiwan’s typesetting conventions, which require centered punctuation, we made key adjustments in developing open Huninn. 
+  - These changes ensure the typeface meets the needs of our local audience effectively.
+
+- **Fully Support jf7000 Charset**:
+  - Read more about jf7000 Charset: [justfont/jf7000](https://github.com/justfont/jf7000).
+  - Supports Taiwanese and Hakka Romanization writing
 
 ## License
 
@@ -113,7 +140,7 @@ Furthermore, although we have check the typeface multiple times, we do not guara
 - **最新版本為 jf open 粉圓 2.0**
 - 到 justfont 的官網下載：https://justfont.com/huninn/
 - 到 Releases 的頁面下載： https://github.com/justfont/open-huninn-font/releases
-
+- 如果你需要 webfont、或是在 Google Workdpace 上使用，可以參考  [Google Fonts](https://fonts.google.com/specimen/Huninn) 上的 [Huninn]([https://](https://github.com/justfont/Huninn))。
 
 ## 更新紀錄
 
