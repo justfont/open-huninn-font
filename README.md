@@ -2,10 +2,14 @@
 
 <div align='center'>
 
+[README (English)](#jf-open-huninn) / [README (繁體中文)](#%E5%8A%A0%E7%B2%89%E5%9C%93%E9%83%BD%E5%85%8D%E9%8C%A2)
+
 ![](https://img.shields.io/github/v/release/justfont/open-huninn-font?label=Latest&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/open-huninn-font/total?label=Downloads&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/open-huninn-font?label=Update&style=flat-square&color=red) ![](https://img.shields.io/github/size/justfont/open-huninn-font/font/jf-openhuninn-2.0.ttf?label=Size&style=flat-square&color=ff69b4)  ![](https://img.shields.io/github/forks/justfont/open-huninn-font?style=flat-square&color=green&label=Forks) ![](https://img.shields.io/github/stars/justfont/open-huninn-font?style=flat-square&color=yellowgreen&label=Stars)
 
-[![](https://img.shields.io/badge/jf7000_Charset-Fully_Supported-66AC35?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9IuWcluWxpCAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTMuMDcgMjQ3LjM4Ij48Y2lyY2xlIGN4PSI5Ni41MyIgY3k9Ijk2LjU5IiByPSI5Ni40NCIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik05NjAgNDE2LjMxYTk2LjU0IDk2LjU0IDAgMSAwIDAgMTkzLjA3YzIuOCAwIDUuNS0uMTQgOC4yMy0uMzdWNDg0LjQ0YTI5LjM1IDI5LjM1IDAgMCAxIDI5LjI1LTI5LjI1IDYyLjYgNjIuNiAwIDAgMSAxMi43MyAxLjMzYzMuOC45IDYuMjUgMy44IDYuMjUgNy4zNyAwIDQuNjktMy44IDcuMTQtNy4zNyA3LjE0LTMuNzkgMC02LjQ4LTEuMzMtMTEuNjEtMS4zM2ExNCAxNCAwIDAgMC0xNC4wNiAxNC4wNnYxOC4zaDI1LjY3YTcuMjkgNy4yOSAwIDAgMSA3LjM3IDcuMzcgNy4xIDcuMSAwIDAgMS03LjM3IDcuMTRoLTI1LjY2djg5Ljk0QTk2LjU0IDk2LjU0IDAgMCAwIDk2MCA0MTYuMzEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NjMuNDYgLTQxNi4zMSkiIHN0eWxlPSJmaWxsOiNhOWFhYTkiLz48cGF0aCBkPSJNNjQuNjEgMzguODhhMTAgMTAgMCAwIDAtMTAuMDcgMTAuMDUgMTAuMDUgMTAuMDUgMCAxIDAgMjAuMSAwIDEwIDEwIDAgMCAwLTEwLTEwLjA1bS0uMDMgNDQuNjRhNy42NyA3LjY3IDAgMCAwLTcuNTkgNy41OVYyMDYuM2MwIDE0LjA3LTcuMTQgMjMuODktMTkuNDEgMjYuNzlhNi45MyA2LjkzIDAgMCAwLTUuODEgNi45MiA3LjIzIDcuMjMgMCAwIDAgNy4xNCA3LjM3IDEwIDEwIDAgMCAwIDIuMjQtLjIzYzE4Ljc0LTMuNTcgMzEtMjAuNTQgMzEtNDEuNTJWOTEuMTFhNy42NyA3LjY3IDAgMCAwLTcuNTktNy41OSIgc3R5bGU9ImZpbGw6IzU5NWE1OSIvPjwvc3ZnPg==&style=flat-square)](https://github.com/justfont/jf7000) ![](https://img.shields.io/badge/License-OFL%201.1-yellow?style=flat-square)
+[![](https://img.shields.io/badge/jf_7000-Fully_Supported-66AC35?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9IuWcluWxpCAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTMuMDcgMjQ3LjM4Ij48Y2lyY2xlIGN4PSI5Ni41MyIgY3k9Ijk2LjU5IiByPSI5Ni40NCIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik05NjAgNDE2LjMxYTk2LjU0IDk2LjU0IDAgMSAwIDAgMTkzLjA3YzIuOCAwIDUuNS0uMTQgOC4yMy0uMzdWNDg0LjQ0YTI5LjM1IDI5LjM1IDAgMCAxIDI5LjI1LTI5LjI1IDYyLjYgNjIuNiAwIDAgMSAxMi43MyAxLjMzYzMuOC45IDYuMjUgMy44IDYuMjUgNy4zNyAwIDQuNjktMy44IDcuMTQtNy4zNyA3LjE0LTMuNzkgMC02LjQ4LTEuMzMtMTEuNjEtMS4zM2ExNCAxNCAwIDAgMC0xNC4wNiAxNC4wNnYxOC4zaDI1LjY3YTcuMjkgNy4yOSAwIDAgMSA3LjM3IDcuMzcgNy4xIDcuMSAwIDAgMS03LjM3IDcuMTRoLTI1LjY2djg5Ljk0QTk2LjU0IDk2LjU0IDAgMCAwIDk2MCA0MTYuMzEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NjMuNDYgLTQxNi4zMSkiIHN0eWxlPSJmaWxsOiNhOWFhYTkiLz48cGF0aCBkPSJNNjQuNjEgMzguODhhMTAgMTAgMCAwIDAtMTAuMDcgMTAuMDUgMTAuMDUgMTAuMDUgMCAxIDAgMjAuMSAwIDEwIDEwIDAgMCAwLTEwLTEwLjA1bS0uMDMgNDQuNjRhNy42NyA3LjY3IDAgMCAwLTcuNTkgNy41OVYyMDYuM2MwIDE0LjA3LTcuMTQgMjMuODktMTkuNDEgMjYuNzlhNi45MyA2LjkzIDAgMCAwLTUuODEgNi45MiA3LjIzIDcuMjMgMCAwIDAgNy4xNCA3LjM3IDEwIDEwIDAgMCAwIDIuMjQtLjIzYzE4Ljc0LTMuNTcgMzEtMjAuNTQgMzEtNDEuNTJWOTEuMTFhNy42NyA3LjY3IDAgMCAwLTcuNTktNy41OSIgc3R5bGU9ImZpbGw6IzU5NWE1OSIvPjwvc3ZnPg==&style=flat-square)](https://github.com/justfont/jf7000) ![](https://img.shields.io/badge/License-OFL%201.1-yellow?style=flat-square)
 
+
+# jf open-huninn
 
 ![](image/jf-open-huninn-banner.png)
 
@@ -121,7 +125,6 @@ Furthermore, although we have check the typeface multiple times, we do not guara
 <div align='center'>
 
 # 加粉圓，都免錢
-
 
 **「jf open 粉圓（open-huninn）」** 是基於小杉圓體（Kosugi Maru）、
 
